@@ -1,5 +1,3 @@
-package src;
-
 public class Machine {
   public volatile int freeTime;
 

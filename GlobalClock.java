@@ -1,5 +1,3 @@
-package src;
-
 public class GlobalClock {
   public volatile int timestamp = 0;
   public volatile int dinerCount;

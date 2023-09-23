@@ -1,5 +1,3 @@
-package src;
-
 public class Diner {
   public int arriveTime;
   public int orderBurger;
