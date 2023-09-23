@@ -62,7 +62,6 @@ public class Restaurant {
     } catch (Exception err) {
       err.printStackTrace();
     }
-    System.out.println("cooks are ready");
 
     // restaurant open, diner came in...
     int dinerIDCount = 0;
